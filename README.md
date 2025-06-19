@@ -1,5 +1,5 @@
 # iyiolacak's swaync config
-![image](https://github.com/user-attachments/assets/d7d730be-09a5-4cb4-ad92-63b5b6783d60)
+![image](https://github.com/user-attachments/assets/2c3dc609-4293-471f-b3f8-9aa25fcc91b5)
 SwayNC config with glassmorphism
 ## You should add these lines to your `hyprland.conf`
 ```
