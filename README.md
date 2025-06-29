@@ -7,6 +7,6 @@ layerrule = blur, swaync-control-center
 layerrule = ignorezero, swaync-notification-window
 layerrule = animation slide right, swaync-control-center
 ```
-
+### You might need 'Inter' font unless you adjust the `.css` file.
 
 I took their config as a base: @elifouts dotfiles/swaync
