@@ -11,6 +11,8 @@ SwayNC config with glassmorphism
 layerrule = blur, swaync-control-center
 layerrule = ignorezero, swaync-notification-window
 layerrule = animation slide right, swaync-control-center
+layerrule = ignorezero, swaync-control-center
+
 ```
 ### You might need 'Inter' font unless you adjust the `.css` file.
 
