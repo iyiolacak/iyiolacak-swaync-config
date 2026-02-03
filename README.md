@@ -3,8 +3,6 @@
 
 ![image](https://github.com/user-attachments/assets/2c3dc609-4293-471f-b3f8-9aa25fcc91b5)
 
-![image](https://github.com/user-attachments/assets/f0ec0241-a9e9-43f0-90f6-1ca87dbd6136)
-
 SwayNC config with glassmorphism
 ## You should add these lines to your `hyprland.conf`
 ```
